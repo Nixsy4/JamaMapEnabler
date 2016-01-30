@@ -1,0 +1,9 @@
+c:\users\nicky\documents\visual studio 2013\Projects\Fallout4TweakTool\Fallout4TweakTool\bin\Debug\Fallout4TweakTool.exe.config
+c:\users\nicky\documents\visual studio 2013\Projects\Fallout4TweakTool\Fallout4TweakTool\bin\Debug\Fallout4TweakTool.exe
+c:\users\nicky\documents\visual studio 2013\Projects\Fallout4TweakTool\Fallout4TweakTool\bin\Debug\Fallout4TweakTool.pdb
+c:\users\nicky\documents\visual studio 2013\Projects\Fallout4TweakTool\Fallout4TweakTool\obj\Debug\Fallout4TweakTool.csprojResolveAssemblyReference.cache
+c:\users\nicky\documents\visual studio 2013\Projects\Fallout4TweakTool\Fallout4TweakTool\obj\Debug\Fallout4TweakTool.Form1.resources
+c:\users\nicky\documents\visual studio 2013\Projects\Fallout4TweakTool\Fallout4TweakTool\obj\Debug\Fallout4TweakTool.Properties.Resources.resources
+c:\users\nicky\documents\visual studio 2013\Projects\Fallout4TweakTool\Fallout4TweakTool\obj\Debug\Fallout4TweakTool.csproj.GenerateResource.Cache
+c:\users\nicky\documents\visual studio 2013\Projects\Fallout4TweakTool\Fallout4TweakTool\obj\Debug\Fallout4TweakTool.exe
+c:\users\nicky\documents\visual studio 2013\Projects\Fallout4TweakTool\Fallout4TweakTool\obj\Debug\Fallout4TweakTool.pdb
